@@ -63,7 +63,7 @@ dependencies {
 
     implementation("com.github.jponge:lzma-java:1.3") // replaces the LZMA binary
     implementation("com.nothome:javaxdelta:2.0.1") // GDIFF implementation for BinPatches
-    implementation("com.google.code.gson:gson:2.10.1") // Used instead of Argo for building changelog.
+    implementation("com.google.code.gson:gson:2.14.0") // Used instead of Argo for building changelog.
 
     implementation("com.anatawa12.forge:SpecialSource:1.11.1") // deobf and reobs
 
